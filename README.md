@@ -5,8 +5,11 @@
 2. Être capable de mettre en forme en utilisant CSS
 3. Être capable d'héberger cette page sur github
 
+## Lien de la page
+https://ceeeed1985.github.io/Tim-Berners-Lee/
 
-## Les difficultés rencontrées
+
+## Les difficultés rencontrées // solutions apportées
 1. **RESOLU** : utilisation de Flexbox difficile, mais une grosse amélioratin depuis le début
 1. **RESOLU** : la crétaion de boutons dynamiques
 1. **PARTIELLEMENT RESOLU** : toujours des difficultés avec les margins et padding, mais gràce à "inspecter" dans google chrome, j'ai pu résoudre de nombreux problèmes de dernière minutes, car visuellement plus parlants !
@@ -15,5 +18,5 @@
 1. **NON RESOLU** : rendre le site internet Responsive. J'ai essayé à la fin, et je voyais que j'étais plus ou moins bien parti, mais pas le temps pour faire mieux.
 
 
-## Le défi en plus :
+## Le défi en plus
 Je ne voulais pas commencer le projet à l'avance, mais faire comme cela était normalement prévu, à savoir recevoir le projet le matin et le commencer. Cela a été une course contre la montre pendant toute la journée, mais impression d'avoir plus appris aujourd'hui avec ce projet, que durant toute la semaine passée.
