@@ -1,0 +1,93 @@
+body {
+    width: 100%;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header{
+    background-color: #111a2c;
+    margin: auto;
+
+}
+
+.navigation {
+    width: 95%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.conteneur01 {
+    display: flex;
+}
+
+.primary_nav ol li{
+    display: inline;
+    list-style-type: none;
+    color: white;
+    text-decoration: none;
+    margin: auto 15px;
+    font-size: 14px;
+}
+
+.primary_nav a {
+    text-decoration: none;
+    color: white;
+}
+
+.primary_nav a:hover {
+    text-decoration:underline;
+    color: white;
+    font-weight: bold;
+}
+
+.login ol {
+    display: flex;
+}
+
+.login ol li {
+    color: white;
+    display: inline;
+    list-style-type: none;
+    text-decoration: none;
+    margin: auto 15px;
+    font-size: 14px;
+}
+
+.login ol li a{
+    color: white;
+    text-decoration: none;
+}
+
+.login ol li a:hover{
+    color: white;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.subscribe {
+    border: 0px solid #a71916;
+    border-radius: 5px;
+    padding: 5px 15px;
+    background-color: #a71916;
+    color: white;
+    font-weight: bold;
+}
+
+.subscribe:hover {
+    border: 0px solid #8a2d12;
+    border-radius: 5px;
+    padding: 5px 15px;
+    background-color: #8a2d12;
+    color: white;
+    font-weight: bold;
+}
+
+.logo {
+    height: 5%;
+}
