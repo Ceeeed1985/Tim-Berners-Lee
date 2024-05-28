@@ -124,6 +124,55 @@ h2{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+h3{
+    font-style: italic;
+    color: #848b91;
+    font-weight: normal;
+    font-size: 12px;
+    margin-bottom: 0;
+}
+
+h4{
+    font-size: 14px;
+    color: black;
+    font-weight: normal;
+    margin-top: 5px;
+}
+
+.by{
+    color: #171918;
+    font-size: 14px;
+}
+
+.auteur{
+    color: #14438d;
+    padding-right: 10px;
+    font-size: 14px;
+}
+
+.update{
+    color: #848b91;
+    padding-right: 5px;
+    font-size: 14px;
+}
+
+.update:before{
+    content: "*";
+    color: #848b91;
+    font-size: 14px;
+}
+
+.edit {
+    color: #14438d;
+    padding-right: 5px;
+    font-size: 14px;
+}
+
+.edit:before{
+    content: "* ";
+    color: #14438d;
+}
+
 .navigation_page{
     margin-left: -35px;
 }
@@ -154,4 +203,26 @@ h2{
 .navigation_page li:first-child:before{
     content: " ";
     color: #14438d;
+}
+
+
+/* WIDGET */
+
+.presentation li{
+    display: inline;
+}
+
+.presentation a{
+    text-decoration: none;
+}
+
+.widget {
+    color:#14438d;
+    background-color: #fcfafa;
+    border: #dedede 1px solid;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+    padding-top:5px;
+    padding-bottom: 5px;;
 }
