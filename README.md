@@ -6,8 +6,9 @@
 3. Être capable d'héberger cette page sur github
 
 ## Lien de la page
-https://ceeeed1985.github.io/Tim-Berners-Lee/
+https://ceeeed1985.github.io/Tim-Berners-Lee/  
 
+**Attention** je n'ai rien modifié à cet exercice depuis mardi 28/05. Par contre, je l'ai recommencé afin ce jeudi 30/05 afin de travailler sur les différents points qui n'ont pas été. Le lien de la page est  le suivant : https://ceeeed1985.github.io/tbl_nouvel_essai/ ; et le lien repo est le suivant : https://github.com/Ceeeed1985/tbl_nouvel_essai
 
 ## Les difficultés rencontrées // solutions apportées
 1. **RESOLU** : utilisation de Flexbox difficile, mais une grosse amélioratin depuis le début
